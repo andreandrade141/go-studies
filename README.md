@@ -1,2 +1,2 @@
-# go_studies
-yeah... it´s golang i´m sorry.
+# go-studies
+Shallow dive into GOLANG for familiarization :)
